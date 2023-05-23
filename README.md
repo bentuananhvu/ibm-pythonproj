@@ -1,2 +1,3 @@
 # ibm-pythonproj
-Coursera's IBM Data Analyst certificate's Python Project for Data Science
+This project is part of Coursera's IBM Data Analyst certificate
+Course 5/9: Python Project for Data Science
